@@ -338,5 +338,4 @@ public class BatchBuilder
 #endif
     }
 }
-
 #endif
