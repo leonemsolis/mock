@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/PulseUnityEngine/Scenes/VitalsMonitor.unity
+    guid: 06477111a2d06324f87f8585b7f6509e
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: e4ea8ba9fd1c6bb4189e3ad647bd21f9, type: 2}
