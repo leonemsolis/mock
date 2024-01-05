@@ -40,6 +40,11 @@ public class BatchBuild
         Build(true);
     }
 
+    public static void Test()
+    {
+        Debug.Log("[ACDM] TTESTTESTTESTEST");
+    }
+
     private static void Build(bool cleanBuild = false)
     {
         try
